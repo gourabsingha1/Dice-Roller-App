@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="lucky_roll">Lucky Roll</string>
+    <string name="lucky_result">Lucky Result</string>
+    <string name="lucky_number_4">Lucky Number: 4</string>
+    <string name="todo1">TODO1</string>
+</resources>
